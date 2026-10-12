@@ -1,0 +1,21 @@
+# Build output
+gitwise
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+
+# Coverage
+coverage.*
+*.coverprofile
+
+# GoLand / JetBrains
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
